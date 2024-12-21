@@ -1,0 +1,4 @@
+repository "Mind_Clash@ZeroSTS@cloud"
+  path "/"
+    br "/main"
+    co "/main"

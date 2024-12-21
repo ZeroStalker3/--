@@ -1,0 +1,29 @@
+{
+    "EnemyAgentBehavior": {
+        "checkpoints": [
+            {
+                "steps": 10282,
+                "file_path": "results\\EnemyAgentTraining\\EnemyAgentBehavior\\EnemyAgentBehavior-10282.onnx",
+                "reward": 0.0,
+                "creation_time": 1730950929.0444267,
+                "auxillary_file_paths": [
+                    "results\\EnemyAgentTraining\\EnemyAgentBehavior\\EnemyAgentBehavior-10282.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10282,
+            "file_path": "results\\EnemyAgentTraining\\EnemyAgentBehavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1730950929.0444267,
+            "auxillary_file_paths": [
+                "results\\EnemyAgentTraining\\EnemyAgentBehavior\\EnemyAgentBehavior-10282.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cpu"
+    }
+}
